@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #EDF2F4;
+  min-height: 100vh;
+}
+
+.subTitle {
+  color: #000;
+}
